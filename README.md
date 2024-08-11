@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm ShuRong Wang</h1>
-<h3 align="center">无关风月 我题序等你回</h3>
+<h1 align="center">无关风月 我题序等你回</h1>
+
+### Yoo, I'm ShuRong Wang 👋
 
 - 🔭 I’m currently working on **Hundsun**
 - 🌱 I’m currently learning **Python**
